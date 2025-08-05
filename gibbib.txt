@@ -4637,17 +4637,17 @@ Bn; Ln; Sch 1, 2.
 L'ESTOILE, P. de. Journal du règne de Henri IV, roi de France et de Navarre. 4 vol. 8º. The Hague, 174I.
 Ln; Sch 1, 2.
 
-[LETI, G.] Il Sindacato di Alexandro VII.
-Con il suo
-viaggio nell'altro mondo. 12°. 1668.
+[LETI, G.] Il Sindacato di Alexandro VII. Con il suo viaggio nell'altro mondo. 12°. 1668.
 Ln; Sch 1, 2.
 
 LETI, G. Vita di Sisto V. 3 vol. 8º. Amsterdam, 172I.
 Bn; Ln.
 
-•IETTER (A) on the method of training infantry for
+'LETTER (A) on the method of training infantry for action.' 4°. 1760. [not identified.]
+Bn.
 
 LETTERS to a young nobleman. 8°. London, 1762.
+Bn.
 
 LEUNGLAVIUS, J. Historia Musulmanæ Turcorum libri XVIII. fol. Frankfort, 1591.
 Vell.; b.-Bn; Ln; Sy, lot 130 (Norman). F. Stroud Read.
@@ -4655,15 +4655,13 @@ Vell.; b.-Bn; Ln; Sy, lot 130 (Norman). F. Stroud Read.
 LEVADE, J. D. Sermons. 8º. Lausanne, 1791.
 Sch I.
 
-LE VAILLANT, F. Voyage dans l'intérieur de l'Afrique.
-2 vol. 8°. Paris, 1790..
+LE VAILLANT, F. Voyage dans l'intérieur de l'Afrique. 2 vol. 8°. Paris, 1790..
 Sch I.
 
 LE VASSOR, M. Histoire du règne de Louis XIII. 17 vol. 12°. Amsterdam, 1700-11.
 
-LEVESQUE, P. C. Histoire de Russie et des peuples soumis à la domination russe.
-8 vol. 12°. Xverdon, 1783.
-In; Sch 1, 2.
+LEVESQUE, P. C. Histoire de Russie et des peuples soumis à la domination russe. 8 vol. 12°. Yverdon, 1783.
+Ln; Sch 1, 2.
 
 LEVRIER, A. J. Chronologie historique des comtes de Genevois. 8º. Orleans, 1787.
 Sy, lot 172, unnamed (Edwards).
@@ -4672,9 +4670,9 @@ LIBANIUS. Epistola. Gr. and Lat. fol. Amsterdam, 1738.
 Ln; Sch 1, 2.
 
 LIBANIUS. Orationes et declamationes. 4°. Altenburg, 1784.
-In.
+Ln.
 
-LIBANIUS. Praludia oratoria LXXII. 2 vol. fol. Paris, 1606,27.
+LIBANIUS. Praeludia oratoria LXXII. 2 vol. fol. Paris, 1606,27.
 Bn; Ln; Sch 1, 2.
 
 LIFE. 'Life?' 8º. London, 1724. [not identified.]
@@ -4683,19 +4681,16 @@ Ln.
 LILLO, John. Works. 2 vol. 8°. London, 1775.
 Sch 1, 2.
 
-LIMBORCH, P. van. De veritate religionis christiana.
-1° Gouda, 1687
+LIMBORCH, P. van. De veritate religionis christianae. 4°. Gouda, 1687.
 Bn; Ln; Sch 1, 2
 
-LIMBORCH, P. van. Historia Inquisitionis. fol. Amster-dam, 1692.
+LIMBORCH, P. van. Historia Inquisitionis. fol. Amsterdam, 1692.
 Ln.
 
-[LIMIERS, H. P. de.] Abrégé chronologique de l'histoire de France sous les règnes de Louis XIII et de Louis XIV.
-2 vol. 12°. Amsterdam, 1720.
+[LIMIERS, H. P. de.] Abrégé chronologique de l'histoire de France sous les règnes de Louis XIII et de Louis XIV. 2 vol. 12°. Amsterdam, 1720.
 Sch 1, 2.
 
-[LIND, John.] Letters concerning the present state of
-Poland. 8º. London, 1773.
+[LIND, John.] Letters concerning the present state of Poland. 8º. London, 1773.
 Cf. gt.; 1.-Bn; Sy, lot 103 (Maggs).
 
 [LIND, John.] Remarks on the principal acts of the thir-teenth Parliament of Great Britain, 8º. London, 1775.
@@ -4706,18 +4701,18 @@ Ln; Sch 1, 2.
 LINGUET, S. N. H. Histoire des révolutions de l'Empire romain. 2 vol. 12°. Liége, 1777.
 Ln; Sch 1, 2.
 
-LINGUET, S. N. H. Mémoires et plaidoyers. 7 vol. 12°
-Amsterdam, 1773-
+LINGUET, S. N. H. Mémoires et plaidoyers. 7 vol. 12° Amsterdam, 1773.
 Sch I.
 
 LINGUET, S. N. H. Mémoires sur la Bastille et sur la détention de M. Linguet, écrits par lui-même. 8º. London,
 
-LIPSIUS, Justus. Opera. 4 vol. fol. Antwerp, Plantin, I637.
-n: dy, lot Ig1 (nogers).
+LIPSIUS, Justus. Opera. 4 vol. fol. Antwerp, Plantin, 1637.
+Cf.; bs.; two footnotes by Gibbon's pencil in vol. 1.—Bn; Ln; Sy, lot 131 (Rogers). University of California.
+
 L'ISLE, G. de. Atlas nouveau, contenant toutes les parties du monde. fol. Paris, 1758.
 Bn.
-L'ISLE, G. de, and others. Atlas de la géographie ancienne.
-fol. [edition not identified.]
+
+L'ISLE, G. de, and others. Atlas de la géographie ancienne. fol. [edition not identified.]
 Bn; Ln; Sch 1, 2.
 
 LISTER, Martin. A Journey to Paris. 8°. London, 1699.
@@ -4733,24 +4728,21 @@ Bn.
 
 LIVIUS, T.
 Historiarum quod exstat.
-1o vol.
+10 vol.
 12°.
 Amsterdam, 1710.
 Ln.
 
-LIVIUS, T. Historiarum libri qui supersunt omnes. 7 vol.
-4° Amsterdam, Leyden, 1738-46.
+LIVIUS, T. Historiarum libri qui supersunt omnes. 7 vol. 4° Amsterdam, Leyden, 1738-46.
 Cf.--Bn; Ln; Sch 1, 2; Js, lot 456.
 
-TVIUS. T. Historiarum libri XG
-otov descriptum et recognitum a V.M. Giovenazzio PE
-Bruns. 4º. Rome, 1773.
+LIVIUS. T. Historiarum libri XCI. Fragmentum anekdoton descriptum et recognitum a V.M. Giovenazzio, P.I. Bruns. 4º. Rome, 1773.
 Ln; Sch 1, 2.
-lution. 2 vol. 8°. London, 1766.
+
+LLOYD, David. State worthies, or the statesmen and favourites of England, from the Reformation to the Revolution. 2 vol. 8°. London, 1766.
 Bn; Ln; Sch I.
 
-[LLOYD, Henry.] A History of the war in Germany. 8º.
-London, 1766.
+[LLOYD, Henry.] A History of the war in Germany. 8º. London, 1766.
 Bn; Ln; Sch I.
 
 LLOYD, Robert. Poetical works. 2 vol.
@@ -4759,9 +4751,9 @@ LLOYD, Robert. Poetical works. 2 vol.
 Cf.; 1. in vol. 1; vol. 2 wants title-page. Sy, lot 38 (Maggs).
 
 LOBO, J. Voyage historique d'Abissinie. 4°. Paris, 1728.
-Cit. gt.; 1. & b.—Bn; Sy, lot 132 (Robinson). Lord Roth-schild.
+Cit. gt.; 1. & b.—Bn; Sy, lot 132 (Robinson). Lord Rothschild.
 
-LOGGENIUS, J. Historia Suecana libri novem. Acce-dunt Antiquitatum sueo-gothicarum libri tres. 4°. Frank-fort, 1676.
+LOGGENIUS, J. Historiae Suecanae libri novem. Accedunt Antiquitatum sueo-gothicarum libri tres. 4°. Frankfort, 1676.
 Ln; Sch I.
 
 LOCKE, John. Works, 3 vol. fol. London, 1759.
@@ -4770,10 +4762,9 @@ Bn.
 LOCKE, John. Works. 4 vol. 4°. London, 1777.
 Ln; Sch 1, 2.
 
-LOFTUS, Smyth. A Reply to the reasonings of Mr. Gibbon, in his History, which seem to affect the truth of Chris-tianity: 8°. Dublin, 1777.
+LOFTUS, Smyth. A Reply to the reasonings of Mr. Gibbon, in his History, which seem to affect the truth of Christianity: 8°. Dublin, 1777.
 
-LOISEAU de Mauléon,
-A. J. Plaidoyers et mémoires.
+LOISEAU de Mauléon, A. J. Plaidoyers et mémoires.
 2 vol. 8o. London, 1780.
 
 LOISEAU de Mauléon, A. J. Plaidoyers et mémoires.
@@ -4785,8 +4776,7 @@ Constitution de l'Angleterre.
 Amsterdam, 1771.
 Bn; Ln; Sch 1.
 
-LONGINUS, D. Qua supersunt. Gr. and Lat. 1°. Oxford,
-1778.
+LONGINUS, D. Quae supersunt. Gr. and Lat. 1°. Oxford, 1778.
 Ln; Sch 1, 2.
 
 LONGINUS, D. De sublimitate commentarius. Gr., Lat., and Fr. 4°. Utrecht, 1694.
@@ -4800,9 +4790,8 @@ Cf.; 1. & b.-Bn; Sy, lot 207 (Pickering).
 [LONGMATE, Borak.] The Pocket Peerage of England, Scotland & Ireland. 2 vol. 8°. London, 1790.
 Sch I.
 
-[LONGUERUE, L. D. de.] Description historique et géographique de la France ancienne et moderne. 2 vol. fol. [Pars], 1722.
+[LONGUERUE, L. D. de.] Description historique et géographique de la France ancienne et moderne. 2 vol. fol. [Paris], 1722.
 Bn; Ln; Sch I, 2.
-182
 
 LONGUERUE, L. D. de. Longueruana.
 2 vol. 12°.
@@ -4815,66 +4804,54 @@ In; Sch 1, 2.
 LORRIS, Guillaume de, and Meung, Jean de. Le Roman de la rose. 3 Vol. 12°. Amsterdam, 1735.
 Ln; Sch I, 2.
 
-OTIKARTS Coril. Lettres anecdotes de Cyrille Luca atriarche de Constantinople, et sa confession de fo
-Concile de Jérusalem tenu contre lui. 4º Amsterdam, 1718.
+LOUKARIS, Cyril. Lettres anecdotes de Cyrille Lucar patriarche de Constantinople, et sa confession de foi. Concile de Jérusalem tenu contre lui. 4º. Amsterdam, 1718.
 Ln; Sch 1, 2.
 
-LOWTH, Robert.
-De sacra poesi Hebraorum prale-
-ctiones. 8º. Oxford, 1775.
+LOWTH, Robert. De sacra poesi Hebraeorum praelectiones. 8º. Oxford, 1775.
 Bn; Ln.
 
-[LOWTH, Robert.] A Letter to the author [W. War-burton] of 'The Divine legation of Moses demonstrated'.
-8°. London, 1766.
-In; Sch I, 2.
+[LOWTH, Robert.] A Letter to the author [W. Warburton] of 'The Divine legation of Moses demonstrated'. 8°. London, 1766.
+Ln; Sch I, 2.
 
-LOWTH, Robert. The Life of William of Wykeham. 8º.
-London, 1758.
+LOWTH, Robert. The Life of William of Wykeham. 8º. London, 1758.
 Bn.
 
-LOWTH, Robert. A Short introduction to English gram-
-mar. 8°. London, 1784.
+LOWTH, Robert. A Short introduction to English grammar. 8°. London, 1784.
 Cf.; 1.-Sy, lot 122 (Robinson).
 
-LOYS de chas . die poire drigues, pour servie
-de la Suisse. 3 Vol. 4°. Lausanne, 1747-49.
+LOYS de Bochat, C. G. Mémoires critiques, pour servir d'éclaircissemens sur divers points de l'histoire ancienne de la Suisse. 3 vol. 4°. Lausanne, 1747-49.
 Ln; Sch 1, 2.
 
-LOYS de Bochat, C. G. Mémoires pour servir à l'histoire du différend entre le pape et le canton de Lucerne. 8°
-Lucerne, 1727.
-
-LOYS de Bochat, C. G. Ouvrages pour et contre les services militaires étrangers. 3 vol, in 2. 12°. Lausanne and
-Geneva, 1738.
+LOYS de Bochat, C. G. Mémoires pour servir à l'histoire du différend entre le pape et le canton de Lucerne. 8° Lucerne, 1727.
 Ln.
 
-LUCANUS, M. A. Pharsalia. 4% Leyden, 1728.
+LOYS de Bochat, C. G. Ouvrages pour et contre les services militaires étrangers. 3 vol, in 2. 12°. Lausanne and Geneva, 1738.
+Ln.
+
+LUCANUS, M. A. Pharsalia. 4°. Leyden, 1728.
 Vell, gt.; arms on sides; b.--Bn; In; Sy, lot 147 (Maggs).
 
-LUCANUS, M. A. La Pharsale, traduite par M. Mar-
-montel. Lat. and Fr. 8°. Paris, 1766.
+LUCANUS, M. A. La Pharsale, traduite par M. Marmontel. Lat. and Fr. 8°. Paris, 1766.
 Bn.
 
-LUCI. s, Covering th and Di Joseph smith, Baderdam ,ons3.
-at Venice.—Bn; Ln; Sy, lot 133 (McLeish).
+LUCIAN. Opera. Gr. and Lat. 3 vol. 4°. Amsterdam, 1743.
+Vell.; bs., covering those of Joseph Smith, British Consul at Venice.—Bn; Ln; Sy, lot 133 (McLeish).
 
 LUCIAN. Lucien, de la traduction de N. Perrot, Sr d'Ablancourt. 12º. Amsterdam, 1722.
 Bn.
 
-LUCIAN. Quomodo historia conscribenda sit. Gr. and
-Lat. 8º. Oxford, 1776.
+LUCIAN. Quomodo historia conscribenda sit. Gr. and Lat. 8º. Oxford, 1776.
 Ln; Sch 1, 2.
 
 LUCILIUS,
-G. C. Lucilii Satyrarum que supersunt
-reliquia. 8º. Padua, 1735-
+G. C. Lucilii Satyrarum quae supersunt
+reliquiae. 8º. Padua, 1735.
 In.
 
-LUGRETIUS Carus, T. De rerum natura. 8º. Oxford,
-1695•
+LUGRETIUS Carus, T. De rerum natura. 8º. Oxford, 1695•
 Ln; Sch 1, 2.
 
-LUCRETIUS Carus, T. De rerum natura. 2 vol. 4°.
-Leyden, 1725.
+LUCRETIUS Carus, T. De rerum natura. 2 vol. 4°. Leyden, 1725.
 Vell.; b.--Bn; Ln; Sy, lot 134 (McLeish).
 
 LUDEWIG, J. P. von. Vita Justiniani M. atque Theodora
@@ -4894,8 +4871,7 @@ Teutsch-Englisches Lexicon. 2 vol.
 4° Leipzig, 1763,65.
 Cf. gt.; I.-Sy, lot r9 (Sotheran). Leonard Bower.
 
-[LUSIGNAN, S.] A History of the revolt of Ali Bey. 8°.
-London, 1783.
+[LUSIGNAN, S.] A History of the revolt of Ali Bey. 8°. London, 1783.
 Sch 1, 2.
 
 [LUZAC, E.] Lettre d'un anonyme à M. Rousseau [on
@@ -4907,8 +4883,7 @@ La; Sch 1.
 LYONNET, P. Traité anatomique de la chenille qui ronge le bois de saule. 4°. The Hague, 1762.
 Sch 1.
 
-LYSIAS. Orationes et fragmenta. Gr. and Lat. 4% London,
-1739-
+LYSIAS. Orationes et fragmenta. Gr. and Lat. 4°. London, 1739.
 Sch I, 2.
 
 LYSIAS. The Orations of Lysias and Isocrates, translated by J. Gillies. 4º London, 1778.
@@ -4916,10 +4891,9 @@ Ln; Sch 1.
 
 LYTTELTON, George. The History of the life of King Henry the second. 4 vol. 4°. London, 1767-71.
 Cf. gt.; bs.-Bn; Sy, lot 136 (Maggs).
-M
 
-MABILLON,J. Ouvrages posthumes de J. Mabillon et de Thierry Ruinart. Par V. Thuillier. 3 vol. 4°. Paris, 1724
-Sch 1, 2; Js, lot 2799-
+MABILLON, J. Ouvrages posthumes de J. Mabillon et de Thierry Ruinart. Par V. Thuillier. 3 vol. 4°. Paris, 1724
+Sch 1, 2; Js, lot 2799.
 
 MABILLON, J. Traité des études monastiques.
 2 vol.
@@ -4929,8 +4903,7 @@ Bn; Sch I, 2.
 MABLY, G. B. de. De la manière d'écrire l'histoire. 12° [edition not identified.]
 Cf.; 1.-Sy, lot 137 (Dulau).
 
-MABLY, G. B. de. Observations sur l'histoire de France.
-2 vol. 12°. Geneva, 1765.
+MABLY, G. B. de. Observations sur l'histoire de France. 2 vol. 12°. Geneva, 1765.
 Cf. gt.; ls. & bs.—Bn; Sy, lot 265 (Sotheran).
 
 MABLY, G. B. de. Observations sur l'histoire de France.
@@ -4950,8 +4923,7 @@ MACLAURIN, Colin. An Account of Sir Isaac Newton's philosophical discoveries. 1�
 MACPHERSON, James. The History and management of the East India Company, vol. 1. 8º. London, 1779.
 Ln; Sch 1, 2.
 
-MACPHERSON, James. The History of Great Britain.
-2 vol. 4° London, 1775.
+MACPHERSON, James. The History of Great Britain. 2 vol. 4° London, 1775.
 Bn; Ln.
 
 IACPHERSON, James. An Introduction to the history
@@ -4970,63 +4942,49 @@ Cf. gt.; I.-Sy, lot 255 (Maggs).
 MACROBIUS, A. A. T. Opera. 8°. London, 1694.
 Bn; Ln; Sch 1, 2.
 
-MAFFEI, F. S. Della scienza chiamata cavalleresca. 4°.
-Trento, 1717.
+MAFFEI, F. S. Della scienza chiamata cavalleresca. 4°. Trento, 1717.
 Bn; Ln.
 
-AFFEI. F. S. Istoria diplomatica. 4°. Mantua, 172
-c. b-Bn• Ln: Sy. lot 120 (Pickering
-(M COREnzine al corioni letteraria che posson evir
-12°. Verona, 1737-40.
+AFFEI. F. S. Istoria diplomatica. 4°. Mantua, 1727.
+Cf.; b.-Bn; Ln; Sy. lot 120 (Pickering).
+
+[MAFFEI, F. S.] Osservazioni letterarie che possono servir di continuazione al Giornal de' letterati d'Italia. 6 vol. 12°. Verona, 1737-40.
 Vell.; 1. in vol. 1; bs.--Bn; Ln; Sy, lot 139 (Dulau).
 
-MAFFEI, F. S. Verona illustrata. 2 vol. fol. Verona, 173I,
-1732.
+MAFFEI, F. S. Verona illustrata. 2 vol. fol. Verona, 1731, 1732.
 Bn; Ln; Sch 1.
 
 MAGINI, G. A. Italia. fol. Bologna, 1620.
 Bn; Ln; Sch 1, 2.
 
-MAGNUS, Johannes. Gothorum Sueonumque historia.
-8º. Basel, 1558.
-Cf., gilt ornaments at corners and in centre of sides; 1.—
-Ln; Sy, lot 140 (Barber).
+MAGNUS, Johannes. Gothorum Sueonumque historia. 8º. Basel, 1558.
+Cf., gilt ornaments at corners and in centre of sides; 1.—Ln; Sy, lot 140 (Barber).
 
-MAILLET, B. de. Description de l'Égypte. 4°. Paris,
-1735-
+MAILLET, B. de. Description de l'Égypte. 4°. Paris, 1735.
 Cf.--Bn; Sy, lot 132 (Robinson). Lord Rothschild.
 
 [MAILLY, J. B.] L'Esprit de la Fronde, ou histoire politique et militaire des troubles de la France pendant la minorité de Louis XIV. 5 vol. 12º. Paris, 1772,73.
-Cf.; b. in vol. 1 & 2; 1. in vol. I.-Bn; Sy, lot 141
-(Taylor).
+Cf.; b. in vol. 1 & 2; 1. in vol. I.-Bn; Sy, lot 141 (Taylor).
 
-MAIMBOURG, L. V.L. a Seckendorf commentarius historicus et apologeticus de Lutheranismo, in quo L.
-Maimburgii Historia Lutheranismi exhibetur. fol. Leip-
-zig, 1694.
+MAIMBOURG, L. V.L. a Seckendorf commentarius historicus et apologeticus de Lutheranismo, in quo L. Maimburgii Historia Lutheranismi exhibetur. fol. Leipzig, 1694.
 Ln; Sch I.
 
-MAIMONIDES.
-Porta Mosis.
-Opera et studio E.
-Pocockii. Arab. and Lat. 2 vol. in 1. 8°. Oxford, 1054,55.
-Vell.; b.; also b. of Lord Sheffield beneath end-paper.—
-Bn; Ln; Sy, lot 195 (Hyman). University of California.
+MAIMONIDES. Porta Mosis. Opera et studio E. Pocockii. Arab. and Lat. 2 vol. in 1. 8°. Oxford, 1654,55.
+Vell.; b.; also b. of Lord Sheffield beneath end-paper.—Bn; Ln; Sy, lot 195 (Hyman). University of California.
 
-MAIRAN, J. J. Dortous de. Éloges des Académiciens de l'Académie royale des sciences, morts en 1741, 1742, et
-1743. 12º. Paris, 1747.
+MAIRAN, J. J. Dortous de. Éloges des Académiciens de l'Académie royale des sciences, morts en 1741, 1742, et 1743. 12º. Paris, 1747.
 Cf.-Sch I, 2; Sy, lot 176 (Robinson).
+
+MAIRAN, J.J. Dortous de. Lettres au R. P. Parrenin, contenant diverses questions sur la Chine. 8°. Paris, 1770.
 Bn; Ln; Sch 1, 2.
-(MAIROBERT, M. F. P. de.] Anecdotes sur la comtesse
-Du Barri. 12º. London, 1775.
+
+[MAIROBERT, M. F. P. de.] Anecdotes sur la comtesse Du Barri. 12º. London, 1775.
 Bn.
 
-MAITTAIRE, M. Annales typographici. 6 vol. 4°. The
-Hague, 1719-4I.
+MAITTAIRE, M. Annales typographici. 6 vol. 4°. The Hague, 1719-41.
 Ln; Sch 1.
 
-MAITTAIRE, M. Graca lingua dialecti. 8°.
-The
-Hague, 1738.
+MAITTAIRE, M. Graecae linguae dialecti. 8°. TheHague, 1738.
 Cf.; I.-Ln; Sy, lot 142 (Maggs).
 
 MAITTAIRE,
@@ -5037,9 +4995,7 @@ VAITTAIRE, M. Me AcademAroxoliaso dum, orde,
 secunda editio. fol. London, 1732.
 Bn; Ln; Sch I.
 
-MAITTAIRE, M. Miscellanea Gracorum aliquot scrip-
-torum carmina cum versione Latina. tol.
-London, 1722.
+MAITTAIRE, M. Miscellanea Graecorum aliquot scriptorum carmina cum versione Latina. fol. London, 1722.
 Cf.; 1.- Sy, lot 82 (Rogers).
 
 MAITTAIRE, M. Stephanorum historia, vitas ipsorum ac libros complectens. 2 vol. 8º. London, 170g.
